@@ -3,4 +3,4 @@
 
 **Github**
 
-* [Ссылка на макет в Github](https://github.com/vvyalov/russian-travel.git)
+* [Ссылка в Github](https://github.com/vvyalov/russian-travel.git)
