@@ -1,0 +1,31 @@
+.footer__link {
+  height: 18px;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'inter';
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  padding-left: 18px;
+}
+  
+.footer__link:hover {
+  opacity: 0.8;
+}
+  
+.footer__link:first-child {
+  padding-left: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link {
+    width: 47px;
+    height: 24px;
+    padding: 0;
+    margin-top: 32px;
+  }
+    
+  .footer__link:first-child {
+    margin-top: 0;
+  }
+}

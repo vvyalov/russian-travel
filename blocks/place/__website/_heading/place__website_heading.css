@@ -1,0 +1,24 @@
+.place__website_heading {
+  color: #AAAAAA;
+  font-family: 'inter';
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .place__website_heading {
+    line-height: 12px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__website_heading {
+    margin-top: 0;
+    margin-bottom: 12;
+  }  
+}

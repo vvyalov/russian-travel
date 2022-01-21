@@ -1,0 +1,37 @@
+.place__paragraph {
+  max-width: 484px;
+  font-family: 'inter';
+  font-weight: normal;  
+  font-size: 18px;
+  line-height: 163%;
+  margin-top: 48px;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
+  .place__paragraph {
+    max-width: 456px;
+    max-height: 337px;
+    margin-left: 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .place__paragraph {
+    font-size: 16px;
+    max-width: 352px;
+    max-height: 182px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph {
+    grid-row-start: 6;
+    grid-column-start: 1;
+    max-width: 288px;
+    max-height: 468px;
+    font-size: 16px;
+    margin: 32px 16px 0 16px;
+  }    
+}
