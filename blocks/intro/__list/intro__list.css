@@ -1,10 +1,11 @@
 .intro__list {
   width: 690px;
-  height: 90px;
+  padding: 0;
   margin-top: 33px;
   margin-bottom: 0;
   font-family: 'inter';
   font-weight: bold;
+  font-style: bold;
   font-size: 12px;
   line-height: 18px;
   color: #ffffff;
@@ -14,6 +15,7 @@
 .span {
   font-family: 'inter';
   font-weight: normal;
+  font-style: normal;
 }
 
 
@@ -26,6 +28,5 @@
 @media screen and (max-width: 767px) {
   .intro__list {
     width: 288px;
-    height: 90px;
   }    
 }
