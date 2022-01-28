@@ -1,7 +1,6 @@
 .intro {
   margin: 114px 442px 0 148px;
   width: 690px;
-  height: 429px;
 }
   
 
@@ -21,7 +20,6 @@
 @media screen and (max-width: 767px) {
   .intro {
     width: 288px;
-    height: 754px;
     margin: 64px 16px 0 16px;
   }      
 }
