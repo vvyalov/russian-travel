@@ -1,7 +1,7 @@
 .place__title {
   margin: auto auto 0 0;
-  width: 460px;
-  font-family: 'inter';
+  max-width: 460px;
+  font-family: 'inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 900;
   line-height: 76px;

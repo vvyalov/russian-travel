@@ -1,7 +1,7 @@
 .cover__title {
   padding: 245px 312px 0 312px;
   margin: 0;
-  font-family: 'inter';
+  font-family: 'inter', 'Arial', sans-serif;
   font-weight: 900;
   text-align: center;
   font-size: 72px;

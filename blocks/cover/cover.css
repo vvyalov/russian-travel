@@ -6,15 +6,9 @@
   background-image: url(../../images/cover-trains.jpg);
   background-color: rgba(42, 44, 47, .3);
   background-size: 100%;
-  background-blend-mode: overlay;
   text-decoration: none;
   line-height: 76px;
-}
-
-.cover:hover {
-  background-color: rgba(42, 44, 47, .8);
-}
-  
+}  
 
 @media screen and (max-width: 1279px) and (min-width: 1024px) {
   .cover {

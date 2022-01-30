@@ -3,7 +3,7 @@
   padding: 0;
   margin-top: 33px;
   margin-bottom: 0;
-  font-family: 'inter';
+  font-family: 'inter', 'Arial', sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 12px;
@@ -11,13 +11,6 @@
   color: #ffffff;
   list-style-type: none;
 }
-
-.span {
-  font-family: 'inter';
-  font-weight: normal;
-  font-style: normal;
-}
-
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .intro__list {
